@@ -1,0 +1,3 @@
+[build]
+  command = "npm run build:docs"
+  publish = "dist/static/docs-site"
